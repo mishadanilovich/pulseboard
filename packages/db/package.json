@@ -1,5 +1,11 @@
 {
   "name": "@pulseboard/db",
   "version": "0.0.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "prisma": "^6.19.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3"
+  }
 }
